@@ -25,6 +25,6 @@ Diabetes Prediction with Decision Tree
 
 developed a model to determine whether or not a female patient has diabetes. The National Institute of Diabetes and Digestive and Kidney Diseases is the original source of this dataset. Based on specific diagnostic metrics included in the collection, the dataset aims to diagnostically predict the presence or absence of diabetes in a patient. These examples were chosen from a bigger database under a number of restrictions. Specifically, all of the patients in this facility are Pima Indian women who are at least 21 years old. 
 
-in [Section `Diabetes-Prediction`](#diabetes.ipynb)
+in [`Diabetes-Prediction`](#diabetes.ipynb)
 
 
