@@ -28,3 +28,14 @@ developed a model to determine whether or not a female patient has diabetes. The
 in [`Diabetes-Prediction`](https://github.com/olaniyan18/Diabetes-Prediction/blob/main/diabetes.ipynb)
 
 
+## Used car price in Nigeria
+
+created a model that uses variables such car year, brand, and so on to predict the price of various cars. The model achieved a performance score of over 80%.
+
+in [`Car Price`](https://github.com/olaniyan18/Used-Car-Price-Prediction-In-Nigeria)
+
+
+
+https://github.com/olaniyan18/portfolio/assets/68203270/a4046ef0-1918-4fd1-8af7-2fb0f3b89ceb
+
+
