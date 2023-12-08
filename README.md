@@ -35,7 +35,3 @@ created a model that uses variables such car year, brand, and so on to predict t
 in [`Car Price`](https://github.com/olaniyan18/Used-Car-Price-Prediction-In-Nigeria)
 
 
-
-https://github.com/olaniyan18/portfolio/assets/68203270/a4046ef0-1918-4fd1-8af7-2fb0f3b89ceb
-
-
