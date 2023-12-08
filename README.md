@@ -6,7 +6,7 @@
 #### Contact: olaniyanfeyikemi@gmail.com
 
 ## Education
-- B.Sc in Computer Science from Fountain University (Expected graduation: Jan 2023, Second Class Upper)
+- B.Sc in Computer Science from Fountain University (Graduated: Jan 2023, Second Class Upper)
 
 ## Work Experience
 Intern at Soloti Gaming Limited (Jan 2023 - Oct 2023)
